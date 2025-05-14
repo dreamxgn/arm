@@ -1,0 +1,1 @@
+ qemu-system-aarch64 -s -S -M raspi4b -cpu cortex-a72 -nographic  -kernel "E:/projs/kr/Arm/mini_kernel/kernel.elf"
